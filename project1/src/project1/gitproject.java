@@ -12,6 +12,7 @@ public class gitproject {
     }
 
     // Method to sort an array of strings
+    //comment added
 
     public void sortArray(String[] array) {
         Arrays.sort(array);
