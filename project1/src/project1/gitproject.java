@@ -11,7 +11,7 @@ public class gitproject {
         System.out.println("Sorted Integer Array: " + Arrays.toString(array));
     }
 
-    // Method to sort an array of strings 
+    // Method to sort an array of strings
     public void sortArray(String[] array) {
         Arrays.sort(array);
         System.out.println("Sorted String Array: " + Arrays.toString(array));
